@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+    --color-sandy-brown : white ;
+    --color-primary : #25BBED ;
+    --color-metalique : #3D3D3D ;
+    --color-koromiko : #b5afaf;
+    --color-error : #ff4747;
+    --color-success :#367c13;
+}
+
+body {
+    color : var(--color-metalique) ;
+    background-color: var(--color-sandy-brown) ;
+}
